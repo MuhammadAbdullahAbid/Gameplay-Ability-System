@@ -53,7 +53,7 @@ To incorporate the Gameplay Ability System into your project, follow these steps
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MuhammadAbdullahAbid/Gameplay-Ability-System
 2. **Integration:**
 
 - Integrate the Gameplay Ability System into your Unreal Engine project.
